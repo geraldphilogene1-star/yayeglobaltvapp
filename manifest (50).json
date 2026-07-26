@@ -1,0 +1,90 @@
+{
+  "id": "yayeglobaltv",
+  "name": "Yaye Global TV",
+  "short_name": "Yaye TV",
+  "description": "Streaming Without Limits - Live TV, Movies and Series via IPTV",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "display_override": [
+    "standalone",
+    "window-controls-overlay",
+    "fullscreen",
+    "minimal-ui"
+  ],
+  "orientation": "natural",
+  "background_color": "#0a0a0a",
+  "theme_color": "#c9a84c",
+  "lang": "en",
+  "dir": "auto",
+  "categories": [
+    "events",
+    "network",
+    "news",
+    "sports",
+    "entertainment"
+  ],
+  "iarc_rating_id": "Everyone",
+  "prefer_related_applications": false,
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Live TV",
+      "short_name": "Live",
+      "description": "Watch live TV channels",
+      "url": "/?page=live",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Movies",
+      "short_name": "Movies",
+      "description": "Browse movies",
+      "url": "/?page=movies",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    },
+    {
+      "name": "Series",
+      "short_name": "Series",
+      "description": "Browse series",
+      "url": "/?page=series",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Yaye Global TV Home Screen"
+    }
+  ]
+}
