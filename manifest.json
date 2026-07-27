@@ -3,8 +3,8 @@
   "name": "Yaye Global TV",
   "short_name": "Yaye TV",
   "description": "Streaming Without Limits - Live TV, Movies and Series via IPTV",
-  "start_url": "/yayeglobaltv/",
-  "scope": "/yayeglobaltv/",
+  "start_url": "/yayeglobaltvapp/",
+  "scope": "/yayeglobaltvapp/",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#0a0a0a",
@@ -36,38 +36,19 @@
     "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
   }
 ]
-    
-      
-      
-      
-      
-    
-    
-    
-      
-      
-      
-    
-  
-
-    
-    
-      
-
-      
-    
+ 
     },
     {
       "name": "Movies",
       "short_name": "Movies",
       "description": "Browse movies",
-      "url": "/yayeglobaltv/?page=movies",
-      "icons": [{ "src": "/yayeglobaltv/icon-192.png", "sizes": "192x192" }]
+      "url": "/yayeglobaltvapp/?page=movies",
+      "icons": [{ "src": "icon-192.png", "sizes": "192x192" }]
     }
   ],
   "screenshots": [
     {
-      "src": "/yayeglobaltv/icon-512.png",
+      "src": "icon-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "form_factor": "narrow",
