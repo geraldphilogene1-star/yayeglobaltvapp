@@ -1606,7 +1606,7 @@ document.addEventListener('keydown',e=>{if(e.key==='Escape')closePlayer();});
 if('serviceWorker' in navigator){
   // Support both GitHub Pages and Netlify
   const swPath = location.hostname.includes('github.io') 
-    ? '/yayeglobaltv/sw.js' 
+    ? '/yayeglobaltvapp/sw.js' 
     : '/sw.js';
   navigator.serviceWorker.register(swPath)
     .then(()=>console.log('SW registered ✅'))
