@@ -1,0 +1,36 @@
+{
+  "cashapp": {
+    "handle": "$Geraldphilogene",
+    "link": "https://cash.app/$Geraldphilogene",
+    "plans": {
+      "1_month": "$10",
+      "3_months": "$25",
+      "1_year": "$80"
+    }
+  },
+  "paypal": {
+    "email": "geraldphilogene1@gmail.com",
+    "link": "https://paypal.me/geraldphilogene1",
+    "plans": {
+      "1_month": "$10",
+      "3_months": "$25",
+      "1_year": "$80"
+    }
+  },
+  "moncash": {
+    "number": "50947907686",
+    "plans": {
+      "1_month": "600 HTG",
+      "3_months": "1500 HTG",
+      "12_months": "6000 HTG"
+    }
+  },
+  "natcash": {
+    "number": "50944533163",
+    "plans": {
+      "1_month": "600 HTG",
+      "3_months": "1500 HTG",
+      "12_months": "6000 HTG"
+    }
+  }
+}
